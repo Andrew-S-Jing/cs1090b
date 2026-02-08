@@ -1,7 +1,9 @@
-.venv
-*.code-workspace
-.pycache__/
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+/pyproject.toml
+/uv.lock
+**/.venv
+**/*.code-workspace
+**/.vscode/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
