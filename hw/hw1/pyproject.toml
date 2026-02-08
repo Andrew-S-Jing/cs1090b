@@ -1,0 +1,16 @@
+[project]
+name = "CS1090B_HW1"
+version = "1.0.0"
+description = "Introduction to Neural Networks"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+  "jupyterlab",
+  "matplotlib",
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "seaborn",
+  "torch",
+  "torchvision",
+]
