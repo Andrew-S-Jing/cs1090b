@@ -8,3 +8,9 @@
 **/*.pyo
 **/*.pyd
 **/.mypy_cache/
+
+# Big data files
+hw/hw1/data/quickdraw/sample_submission.csv
+hw/hw1/data/quickdraw/test.csv
+hw/hw1/data/quickdraw/train.csv
+hw/hw1/models/
