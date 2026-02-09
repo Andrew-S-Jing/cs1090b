@@ -5,6 +5,8 @@ description = "Introduction to Neural Networks"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+  "ipykernel",
+  "tqdm",
   "jupyterlab",
   "matplotlib",
   "numpy",
