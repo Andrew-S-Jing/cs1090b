@@ -1,0 +1,17 @@
+[project]
+name = "CS1090B_HW2"
+version = "1.0.0"
+description = "Introduction to CNNs"
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+  "ipykernel",
+  "jupyterlab",
+  "matplotlib",
+  "numpy",
+  "pillow",
+  "torch",
+  "torchvision",
+  "tqdm",
+]
