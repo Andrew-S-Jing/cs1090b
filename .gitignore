@@ -9,6 +9,8 @@
 **/*.pyd
 **/.mypy_cache/
 **/.claude/
+**/*.zip
+**/data/
 
 # Big data files
 hw/hw1/data/quickdraw/sample_submission.csv

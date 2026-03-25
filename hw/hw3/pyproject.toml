@@ -1,0 +1,19 @@
+[project]
+name = "CS1090B_HW3"
+version = "1.0.0"
+requires-python = ">=3.13"
+
+dependencies = [
+  "ipykernel",
+  "ipywidgets",
+  "jupyterlab",
+  "matplotlib",
+  "numpy",
+  "pandas",
+  "pillow",
+  "torch",
+  "torchvision",
+  "tqdm",
+  "scikit-learn",
+  "umap-learn",
+]
